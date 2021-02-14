@@ -16,8 +16,8 @@ body {
 }
 
 #profil-image{
-    width: 50%;
-    height: 450px;
+    width: 100%;
+    height: 480px;
 }
 
 #profil-name{
@@ -26,7 +26,7 @@ body {
 
 #footer{
     width: 100%;
-    height: 50px;
+    height: 600px;
     position: absolute;
     bottom: 0;
     line-height: 50px;
